@@ -13,3 +13,6 @@ choco install act-cli
 https://zenn.dev/yumemi_inc/articles/203779a4eba922
 
 https://book.st-hakky.com/hakky/github-actions-act/
+
+https://suzumura-tumiage.com/github-action/493/
+
